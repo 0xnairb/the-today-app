@@ -12,6 +12,8 @@
   "dependencies": {
     "@twa-dev/sdk": "^6.7.1",
     "@vitejs/plugin-basic-ssl": "^1.0.1",
+    "firebase": "^11.0.2",
+    "firebaseui": "^6.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
